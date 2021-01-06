@@ -8,3 +8,7 @@
  (b) logistic regression model, (c) random forest classifier model, (d) deep learning model.
 
  The data set was retrived from : https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+ Human_Resources.csv: dataset used for model building.
+
+ Hr_Project.ipynb: the jupyter notebook containing the code. 
