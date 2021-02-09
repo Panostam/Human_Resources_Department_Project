@@ -1,7 +1,6 @@
 # Human_Resources_Department_Project
 
  Author: Panagiotis Tamtakos
- Date: 6/1/2021
 
  Development of simple models that could predict which employees of a company are more likely to quit in the future.
  This project is organized as follows: (a) data processing and exploratory data analysis
